@@ -9,8 +9,9 @@ GENERAL
     scroll-behavior: smooth;
 }
 
+
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'open Sans', sans-serif;
     background: #050505;
     color: white;
     overflow-x: hidden;
