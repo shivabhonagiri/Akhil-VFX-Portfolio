@@ -1,3 +1,6 @@
+/* ===========================
+GENERAL
+=========================== */
 
 * {
     margin: 0;
@@ -194,6 +197,16 @@ SKILLS
 /* ===========================
 PROJECTS
 =========================== */
+/* Fix spacing for project cards and buttons */
+.project-card p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.project-card .btn {
+    display: inline-block;
+    margin-top: 10px;
+}
 
 /* ===========================
 SHOWREEL
